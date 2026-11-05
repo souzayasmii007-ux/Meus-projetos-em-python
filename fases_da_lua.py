@@ -1,4 +1,3 @@
-
 """
 🌙 Fases da Lua — App de Desktop Fofinho 🌙
 =============================================
