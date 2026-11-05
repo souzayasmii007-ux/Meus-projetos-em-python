@@ -1,2 +1,3 @@
-# calendario--fases-da-lua
-App em Python (tkinter) que mostra a fase da lua atual e um calendário lunar mensal 🌙
+# Meus projetos 
+1- Calendário das fases da lua - app em python
+2- Trecho de uma música- em python
